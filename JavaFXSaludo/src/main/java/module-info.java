@@ -4,5 +4,5 @@ module com.example.javafxsaludo {
 
 
     opens com.example.javafxsaludo to javafx.fxml;
-    exports com;
+    exports com.example.javafxsaludo;
 }
