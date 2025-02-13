@@ -1,0 +1,26 @@
+.root {
+    -fx-background-color: #F4F4F4;
+    -fx-padding: 20px;
+    -fx-font-family: "Arial";
+}
+
+Label {
+    -fx-font-size: 14px;
+}
+
+#textTitulo {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333;
+}
+
+Button {
+    -fx-background-color: #D0E3FA;
+    -fx-text-fill: #000;
+    -fx-padding: 8px 16px;
+    -fx-font-size: 14px;
+}
+
+Button:hover {
+    -fx-background-color: #A4C7F7;
+}
