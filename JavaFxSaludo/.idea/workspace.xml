@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="979e1942-0711-49ca-9dfa-102668399e49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/javafxsaludo/Controller/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/javafxsaludo/HelloApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/javafxsaludo/Modelo/SaludoModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/javafxsaludo/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/javafxsaludo/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/javafxsaludo/view/MainView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2szbX3t3kjgYqIVlCEYoEaAF3Fy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloApplication.executor": "Run",
+    "Notification.DisplayName-DoNotAsk-WindowsDefender": "Microsoft Defender may affect IDE",
+    "Notification.DoNotAsk-WindowsDefender": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "parte-2",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="979e1942-0711-49ca-9dfa-102668399e49" name="Changes" comment="" />
+      <created>1739461392142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739461392142</updated>
+    </task>
+    <servers />
+  </component>
+</project>

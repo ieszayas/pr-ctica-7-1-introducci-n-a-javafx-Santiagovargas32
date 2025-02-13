@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.collections.FXCollections?>
+<?import java.lang.String?>
+<VBox alignment="CENTER" prefHeight="300.0" prefWidth="400.0" spacing="20"
+      stylesheets="@style.css"
+      xmlns="http://javafx.com/javafx/17.0.12"
+      xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="com.example.javafxsaludo.Controller.HelloController">
+
+    <!-- Título -->
+    <Label fx:id="welcomeText" text="¿Hola, qué tal?" styleClass="title-label" />
+
+    <!-- Sección con opciones -->
+    <HBox spacing="15">
+        <VBox spacing="5" styleClass="options-box">
+            <CheckBox text="Selección" />
+            <CheckBox text="Selección" />
+            <CheckBox text="Selección" />
+        </VBox>
+
+        <VBox spacing="10">
+            <TextField promptText="Buscar..." />
+            <ComboBox>
+                <items>
+                    <FXCollections fx:factory="observableArrayList">
+                        <String fx:value="Opción 1" />
+                        <String fx:value="Opción 2" />
+                    </FXCollections>
+                </items>
+            </ComboBox>
+            <Slider />
+            <Button text="Press" onAction="#handlePressButton" />
+        </VBox>
+    </HBox>
+
+    <TextArea prefHeight="80" prefWidth="250" />
+
+    <!-- Botón de salida -->
+    <Button fx:id="exitButton" onAction="#handleExitButton" text="Salir" styleClass="exit-button"/>
+</VBox>
